@@ -1,1 +1,0 @@
-OWNER_USER = ["kingkong_fou","cjvjvjh","notseen.official"]
